@@ -1,0 +1,33 @@
+ 
+
+Lecture 01: Course Introduction
+
+https://drive.google.com/file/d/1jPSaLIZVNhjbr7wf38i370Th5hJ0wNJd/view?usp=sharing
+
+ 
+
+Lecture 02: Sampling and Quantization
+
+https://drive.google.com/file/d/1yINT6M3k1FNt9dUEQmXOfb6jAGBc2BpZ/view?usp=sharing
+
+ 
+
+Lecture 03: Imaging Basics: Resolution, Contrast, Brightness & Entropy
+
+ 
+
+https://drive.google.com/file/d/16HxAtKr6N_1uZE1IPwiXqEXDBEie2g4u/view?usp=sharing
+
+ 
+
+Lecture 04: Pixel Neighborhood & Image Enhancement
+
+https://drive.google.com/file/d/14MYZX1IUd-m3LwWRSQ_QpUjMYo4Cogmp/view?usp=sharing
+
+ 
+
+Lecture 05: More on Image Enhancement: Point Operations
+
+https://drive.google.com/file/d/10UbZw9CcD4eGJDMHOo-p5T5ecquxVmug/view?usp=sharing
+
+ 
